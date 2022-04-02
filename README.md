@@ -26,3 +26,6 @@
      <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
    <a href='mailto:thalitasug@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a> 
 </div>
+<div>
+ <img src='![hitchhikers-guide-marvin-on-life-530x530](https://user-images.githubusercontent.com/81269609/161361798-5a91b2ea-8a3b-4ead-bcbc-91f3862c181d.jpg)' target='_blank'>
+</div>
