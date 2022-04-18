@@ -2,11 +2,10 @@
  Hi there 👋, I'm Thalita Suguikawa.
 - 🌱 I’m currently learning ...many thing, I love to learn, not just about tech but about a lot of things. 
 - 🤔 I’m looking for help with ...well, I always accept help to learn more. 
-- 💬 Ask me about anything, but I may not answer😜. But I'm still new to the data world so I probably only have questions, but what I know I'll be glad to share it. 
+- 💬 Ask me about anything, but I may not know the answer🤔.I'm still new to the data world so I probably only have questions, but what I know I'll be glad to share it. 
 - 📫 How to reach me: thalitasug@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a frustated astronomer and engineer.🤫 Animal hugger🐶🐱💕🦝🐻🐯and very motived user of emojis💕😍
-- ⚡ Fun fact2: I'm pretty sure Carl Sagan was my soul mate🤔🥰
 <div>
 <p align="left">
     <a href="https://github.com/ThaliSug/ThaliSug"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
