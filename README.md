@@ -1,7 +1,7 @@
 ### ⚠️Don't Panic!⚠️
- Hi there 👋, I'm Thalita Suguikawa.
-- 🌱 I’m currently learning ...many thing, I love to learn, not just about tech but about a lot of things. 
-- 🤔 I’m looking for help with ...well, I always accept help to learn more. 
+ Hello world 👋, I'm Thalita Suguikawa.
+- 🌱 I’m currently working on updating my studying repository. <!--But I love to learn, not just about tech but about a lot of things. -->
+- 🤔 I’m looking for help with ...well, I always accept help to learn more.But I´ll start to work on some TimeSeries and put it in my studying repository too. 
 - 💬 Ask me about anything, but I may not know the answer🤔.I'm still new to the data world so I probably only have questions, but what I know I'll be glad to share it. 
 - 📫 How to reach me: thalitasug@gmail.com
 - 😄 Pronouns: she/her
@@ -21,9 +21,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliSug&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![marvin](https://user-images.githubusercontent.com/81269609/161362123-4a7c607e-dcf4-49db-95d4-7154f4c09168.jpg)
-##
- 
+<!--![marvin](https://user-images.githubusercontent.com/81269609/161362123-4a7c607e-dcf4-49db-95d4-7154f4c09168.jpg)-->
+ ![douglasadams](https://user-images.githubusercontent.com/81269609/169580156-ca14053f-ded0-4f46-adf6-cb0db36de443.jpg)
+
   
  <div align='right'>
    <a href='https://www.linkedin.com/in/thalitasuguikawa/' target='_blank'>
