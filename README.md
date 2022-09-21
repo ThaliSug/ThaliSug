@@ -25,7 +25,7 @@
  <!--![douglasadams](https://user-images.githubusercontent.com/81269609/169580156-ca14053f-ded0-4f46-adf6-cb0db36de443.jpg)-->
  
 
-  <img src="https://user-images.githubusercontent.com/81269609/169580156-ca14053f-ded0-4f46-adf6-cb0db36de443.jpg" alt="Douglas Adams" style="width:40%;margin:0 auto;">
+  <img src="https://user-images.githubusercontent.com/81269609/169580156-ca14053f-ded0-4f46-adf6-cb0db36de443.jpg" alt="Douglas Adams" style="width:100%;margin:0 auto;">
  
 
   
