@@ -17,8 +17,8 @@
 
 <div  style="display: inline_block">
   <a href="https://github.com/ThaliSug">
-  <img height="130em;" width:"40%;" src="https://github-readme-stats.vercel.app/api?username=ThaliSug&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em;" width:"40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliSug&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em;" width:"40%;" src="https://github-readme-stats.vercel.app/api?username=ThaliSug&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em;" width:"40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliSug&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!--![marvin](https://user-images.githubusercontent.com/81269609/161362123-4a7c607e-dcf4-49db-95d4-7154f4c09168.jpg)-->
