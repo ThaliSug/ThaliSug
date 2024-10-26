@@ -1,10 +1,5 @@
 ### ⚠️Don't Panic!⚠️
  Hello world 👋, I'm Thalita Suguikawa.
-- 🌱 I’m currently working on updating my studying repository. <!--But I love to learn, not just about tech but about a lot of things. -->
-- 🤔 I’m looking for help with ...well, I always accept help to learn more.But I´ll start to work on some TimeSeries and put it in my studying repository too. 
-- 💬 Ask me about anything, but I may not know the answer🤔.I'm still new to the data world so I probably only have questions, but what I know I'll be glad to share it. 
-- 📫 How to reach me: thalitasug@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a frustated astronomer and engineer.🤫 Animal hugger🐶🐱💕🦝🐻🐯and very motived user of emojis💕😍
 <div>
 <p align="left">
