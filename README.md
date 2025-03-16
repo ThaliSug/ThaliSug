@@ -1,5 +1,5 @@
 ### ⚠️Don't Panic!⚠️
- Hello world 👋, I'm Thalita Suguikawa.
+ Hello world 👋, I'm Thalita.
 - ⚡ Fun fact: I'm a frustated astronomer and engineer.🤫 Animal hugger🐶🐱💕🦝🐻🐯and very motived user of emojis💕😍
 <div>
 <p align="left">
